@@ -1,0 +1,5 @@
+name        = "Patternkit Example"
+description = "Adds Patternkit example patterns."
+package     = "Presentation Framework"
+
+dependencies[] = patternkit
